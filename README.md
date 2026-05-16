@@ -32,5 +32,5 @@ profit leakages and regional performance gaps.
 - Dataset: Sample Superstore (9,994 records)
 
 ## 📎 Files
-- 📊 [Power BI Dashboard](./PowerBi_Dashboard_Assignment.pbix)
+- 📊 [Power BI Dashboard](./PowerBi_Dashboard.pbix)
 - 📄 [Presentation Report](./Superstore_Presentation_Shivam_Yadav.pdf)
